@@ -1,0 +1,10 @@
+path: "C:\\Users\\lucas\\Desktop\\bn7a\\data"
+train: "C:\\Users\\lucas\\Desktop\\bn7a\\data\\images\\train"
+val: "C:\\Users\\lucas\\Desktop\\bn7a\\data\\images\\test"
+#classes
+names:
+ 0 : Spindle screw driver
+ 1 : Spindle screw passenger
+ 2 : QR code scanning
+ 3 : Go/No go RHS
+ 4 : Go/No go LHS
